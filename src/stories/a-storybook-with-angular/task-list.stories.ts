@@ -1,4 +1,5 @@
-import { TaskListComponent } from '../../app/app/tutorial-components/a-storybook-with-angular/task-list/task-list.component';
+import { TaskListComponent } from '../../app/tutorial-components/a-storybook-with-angular/task-list/task-list.component';
+
 
 export default {
     title: 'A Storybook With Angular | Task List',

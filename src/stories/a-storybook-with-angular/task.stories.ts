@@ -1,4 +1,5 @@
-import { TaskComponent } from '../../app/app/tutorial-components/a-storybook-with-angular/task/task.component';
+import { TaskComponent } from '../../app/tutorial-components/a-storybook-with-angular/task/task.component';
+
 
 export default {
     title: 'A Storybook With Angular | Task',
