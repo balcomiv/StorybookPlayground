@@ -56,3 +56,11 @@ rm -r -force .git # Delete all git information
 git init # Recreate an empty repo
 git add --all # Re-add all the files to the index
 git commit -m 'Initial fork from example.com/repo.git'
+
+### Deploying Static Files
+"build-storybook-static": "build-storybook -c .storybook -o .out"
+"build-storybook-static": "build-storybook -c .storybook"
+
+https://www.learnstorybook.com/intro-to-storybook/react/en/deploy/
+
+https://storybook.js.org/docs/basics/exporting-storybook/
