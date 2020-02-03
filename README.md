@@ -26,6 +26,14 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 
+## Furter SB help
+
+https://www.learnstorybook.com/intro-to-storybook/angular/en/get-started/
+
+https://storybookjs.now.sh/angular-cli/?path=/docs/addon-docs--with-text
+
+https://angular.carbondesignsystem.com/?path=/story/components-accordion--skeleton
+
 ### Pretier
 
 https://itnext.io/enforce-your-team-coding-style-with-prettier-and-tslint-9faac5016ce7
@@ -50,8 +58,8 @@ If you're a heavy visual studio user, you can simply open your preference settin
 }
 ....
 
-
 ### Remove .git following clone
+
 rm -r -force .git # Delete all git information
 git init # Recreate an empty repo
 git add --all # Re-add all the files to the index
