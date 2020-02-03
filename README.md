@@ -28,9 +28,24 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## Furter SB help
 
+### Getting Started
+
 https://www.learnstorybook.com/intro-to-storybook/angular/en/get-started/
 
+### Docs
+
+https://storybook.js.org/docs/basics/introduction/
+
+
+### Addons
+
+https://storybook.js.org/addons/
+
+https://github.com/storybookjs/storybook/tree/master/addons/storysource
+
 https://storybookjs.now.sh/angular-cli/?path=/docs/addon-docs--with-text
+
+### Misc
 
 https://angular.carbondesignsystem.com/?path=/story/components-accordion--skeleton
 
