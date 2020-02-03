@@ -36,6 +36,10 @@ https://www.learnstorybook.com/intro-to-storybook/angular/en/get-started/
 
 https://storybook.js.org/docs/basics/introduction/
 
+### Examples
+
+https://storybookjs-next.now.sh/angular-cli/?path=/story/app-component--component-with-separate-template
+
 
 ### Addons
 
