@@ -34,7 +34,8 @@ https://www.learnstorybook.com/intro-to-storybook/angular/en/get-started/
 
 ### Docs
 
-https://storybook.js.org/docs/basics/introduction/
+- https://medium.com/storybookjs/rich-docs-with-storybook-mdx-61bc145ae7bc
+- https://storybook.js.org/docs/basics/introduction/
 
 ### Examples
 
