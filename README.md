@@ -32,16 +32,29 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 https://www.learnstorybook.com/intro-to-storybook/angular/en/get-started/
 
+### 5.3 Config Info
+- https://medium.com/storybookjs/declarative-storybook-configuration-49912f77b78
+- https://medium.com/storybookjs/storybook-5-3-83e114e8797c
+
+- https://medium.com/storybookjs/storybook-docspage-e185bc3622bf
+- https://github.com/storybookjs/storybook/blob/next/MIGRATION.md#from-version-52x-to-53x
+
 ### Docs
+
+- https://medium.com/storybookjs/storybook-docspage-e185bc3622bf
 
 - https://medium.com/storybookjs/rich-docs-with-storybook-mdx-61bc145ae7bc
 - https://github.com/storybookjs/storybook/blob/next/addons/docs/README.md#installation
 - https://storybook.js.org/docs/basics/introduction/
 
+### Addons
+- https://medium.com/storybookjs/discover-dependencies-in-storybook-49264d361e21
+
 ### Examples
 
-https://storybookjs-next.now.sh/angular-cli/?path=/story/app-component--component-with-separate-template
+- https://storybookjs-next.now.sh/angular-cli/?path=/story/app-component--component-with-separate-template
 
+- https://github.com/amcdnl/material-storybook/blob/master/stories/button.stories.ts
 
 ### Addons
 
