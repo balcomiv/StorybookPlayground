@@ -54,6 +54,14 @@ Rich Docs with Great Theme
 - https://github.com/jask-oss/reaviz/blob/fc0a317b09a88d9feb4dd1ddaa622633bebdcdc5/.storybook/config.js
 - https://github.com/jask-oss/reaviz/tree/2a4ef6b0be38e1a431a04fe610e63b007b437d80/docs
 
+### Tyescript Doc Comments
+- https://github.com/Microsoft/tsdoc 
+- https://github.com/Microsoft/tsdoc/blob/master/spec/code-snippets/DeclarationReferences.ts
+- https://api-extractor.com/pages/tsdoc/doc_comment_syntax/
+- https://api-extractor.com/pages/tsdoc/doc_comment_syntax/
+- https://typedoc.org/guides/doccomments/ 
+- https://stackoverflow.com/questions/23072286/where-is-the-syntax-for-typescript-comments-documented
+
 ### Addons
 - https://medium.com/storybookjs/discover-dependencies-in-storybook-49264d361e21
 
@@ -62,6 +70,8 @@ Rich Docs with Great Theme
 - https://storybookjs-next.now.sh/angular-cli/?path=/story/app-component--component-with-separate-template
 
 - https://github.com/amcdnl/material-storybook/blob/master/stories/button.stories.ts
+
+- https://storybooks-official.netlify.com/?path=/graphql/addons-jest--withtests
 
 ### Addons
 
