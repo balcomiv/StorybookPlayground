@@ -47,6 +47,13 @@ https://www.learnstorybook.com/intro-to-storybook/angular/en/get-started/
 - https://github.com/storybookjs/storybook/blob/next/addons/docs/README.md#installation
 - https://storybook.js.org/docs/basics/introduction/
 
+Rich Docs with Great Theme
+- https://medium.com/storybookjs/rich-docs-with-storybook-mdx-61bc145ae7bc
+- https://reaviz.io/?path=/docs/docs-advanced-custom-charts--page
+- https://github.com/jask-oss/reaviz
+- https://github.com/jask-oss/reaviz/blob/fc0a317b09a88d9feb4dd1ddaa622633bebdcdc5/.storybook/config.js
+- https://github.com/jask-oss/reaviz/tree/2a4ef6b0be38e1a431a04fe610e63b007b437d80/docs
+
 ### Addons
 - https://medium.com/storybookjs/discover-dependencies-in-storybook-49264d361e21
 
