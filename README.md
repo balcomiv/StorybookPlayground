@@ -66,7 +66,9 @@ https://storybookjs.now.sh/angular-cli/?path=/docs/addon-docs--with-text
 
 ### Misc
 
-https://angular.carbondesignsystem.com/?path=/story/components-accordion--skeleton
+- https://angular.carbondesignsystem.com/?path=/story/components-accordion--skeleton
+- https://www.tech-run.net/en/contents/storybook
+- https://jaketrent.com/post/global-styles-in-storybook/
 
 ### Pretier
 
