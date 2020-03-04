@@ -32,6 +32,10 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 https://www.learnstorybook.com/intro-to-storybook/angular/en/get-started/
 
+## Help
+### Adding classes to body for stories (theming help)
+- https://github.com/storybookjs/storybook/issues/1672
+
 ### 5.3 Config Info
 - https://medium.com/storybookjs/declarative-storybook-configuration-49912f77b78
 - https://medium.com/storybookjs/storybook-5-3-83e114e8797c
